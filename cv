@@ -18,6 +18,15 @@
 			<li>Técnico em Processamentos de Dados pelo colégio Juvenal de Campos</li>
 		</ul>
 		<hr/>
+	<h2>Certificações</h2>
+	<hr/>
+		<ul type="disc">
+			<li>CSM - Certified Scrum Master - Scrum Alliance</li>
+			<li>CSPO - Certified Product Owner - Scrum Alliance</li>
+			<li>OKR - Objective and Key Results</li>
+			<li>CSS - Certified Scaled Scrum</li>
+		</ul>
+		<hr/>
 		<h2>Especialidades</h2>
 		<ul type="square">
 		<li>Lógica de Programação </li>
@@ -32,6 +41,11 @@
 		<hr/>
 		<h2>Cursos livres:</h2>
 		<ul type="disc">
+			<li>2022</li>
+			<ul type="square">
+				<li>OKR - Objective and Key Results - Massimus</li>
+				<li>CSS - Certified Scaled Scrum - Massimus</li>
+			</ul>
 			<li>2021</li>
 			<ul type="square">
 				<li>Oficina Fazendo Acontecer: Comportamento Empreendedor - IFA</li>
@@ -73,8 +87,8 @@
 			</ul>
 			<li>2017</li>
 			<ul type="square">
-				<li>CSPO Certified Scrum Product Owner - Scrum Alliance</li>
-				<li>CSM Certified Scrum Master - Scrum Alliance </li>
+				<li>CSPO Certified Scrum Product Owner - Massimus</li>
+				<li>CSM Certified Scrum Master - Massimus</li>
 				<li>Design Thinking - BootCamp - Etec Albert Einstein </li>
 				<li>Lógica de Programação - Fundação Bradesco</li>
 			</ul>
